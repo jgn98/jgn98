@@ -29,8 +29,6 @@
     alt="Jonas' GitHub Stats"
     height="165"
   />
-</div>
-<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgn98&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4"
     alt="Top Languages"
