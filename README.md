@@ -13,6 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-b4befe?style=for-the-badge&logo=csharp&logoColor=1e1e2e" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-a6e3a1?style=for-the-badge&logo=dotnet&logoColor=1e1e2e" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-f5c2e7?style=for-the-badge&logo=microsoftsqlserver&logoColor=1e1e2e" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-f38ba8?style=for-the-badge&logo=html5&logoColor=1e1e2e" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-89b4fa?style=for-the-badge&logo=css3&logoColor=1e1e2e" alt="CSS" />
