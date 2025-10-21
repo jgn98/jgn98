@@ -28,12 +28,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jgn98&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&icon_color=f5c2e7&include_all_commits=true&cache_seconds=1800"
     alt="Jonas' GitHub Stats"
-    height="165"
   />
+</div>
+
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgn98&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&cache_seconds=1800"
     alt="Top Languages"
-    height="165"
   />
 </div>
 
