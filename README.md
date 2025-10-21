@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**jgn98/jgn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+  Catppuccin-Themed GitHub Profile README
+  Author: Jonas (jgn98)
 -->
+
+<div align="center">
+  <h1 style="color:#b4befe;">✨ Hey there, I'm Jonas</h1>
+  <p style="color:#cdd6f4;">Computer Science Student @ <b>UCL, Denmark</b></p>
+</div>
+
+---
+
+### 🧠 Languages I Use
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+</div>
+
+---
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jgn98&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&icon_color=f5c2e7"
+    alt="Jonas' GitHub Stats"
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgn98&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4"
+    alt="Top Languages"
+    height="165"
+  />
+</div>
