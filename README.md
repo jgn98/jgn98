@@ -35,13 +35,6 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgn98&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jgn98&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=b4befe&fire=f38ba8&currStreakLabel=cdd6f4&sideNums=cdd6f4&currStreakNum=b4befe&sideLabels=cdd6f4&cache_seconds=1800"
     alt="GitHub Streak"
   />
